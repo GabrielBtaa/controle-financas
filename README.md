@@ -15,8 +15,13 @@ Aplicação web simples para controle de receitas e despesas, com histórico e g
 - JavaScript
 - Chart.js
 
+## 🌐 Demo ao vivo
+
+Veja funcionando aqui:  
+👉 https://gabrielbtaa.github.io/controle-financas/
+
 ## 📸 Preview
-https://gabrielbtaa.github.io/controle-financas/
+
 
 ## 📦 Como usar
 Basta abrir o arquivo `index.html` no navegador.
