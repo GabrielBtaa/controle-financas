@@ -22,6 +22,8 @@ Veja funcionando aqui:
 
 ## 📸 Preview
 
+<p align="center">
+  <img src="./img/paginadefinanças01.png" alt="Preview da Pagina de Finanças" width="600">
 
 ## 📦 Como usar
 Basta abrir o arquivo `index.html` no navegador.
